@@ -6,9 +6,9 @@ import NavBar from "components/NavBar";
 
 const Dashboard = () => {
     return (
-        <div className="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-light border-bottom shadow-sm">
+        
             <>
-                <NavBar />
+                <NavBar/>
                 <div className="container">
                     <h1 className="text-primary py-3">Dashboard de Vendas</h1>
                     <div className="row px-3">
@@ -28,10 +28,9 @@ const Dashboard = () => {
                     </div>
                     <DataTable />
                 </div>
-               
+               <Footer />
             </>
-        </div>
-    );
+        );
 }
 
 export default Dashboard;
