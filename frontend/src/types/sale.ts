@@ -20,7 +20,7 @@ export type SalePage = {
     empty?: boolean;
 }
 
-}
+
 
 
 
