@@ -9,10 +9,11 @@
 ## Checklist: sequencia de pastas 
 - ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/fig-1_sequencia.png)
 
-•	Utilização do Yarn (instalação no prompt ou no branch)
-yarn -v
-- npm install --global yarn
-
+- Após criaçao de pastas do projeto;
+- Utilização do Yarn (instalação no prompt ou no branch)
+- yarn -v  (verificação se tem instalado)
+- npm install --global yarn (instalação)
+Apos criaçao de pastas; 
 # sequência de criação do projeto
 ## Passo 1: 
 •	Criar projeto no ReactJS com create-react-app:
