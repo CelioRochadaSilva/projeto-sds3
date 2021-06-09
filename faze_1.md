@@ -7,13 +7,13 @@
 -	Publicar o front end no Netlify;
 
 ## Checklist: sequencia de pastas 
-- ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/fig-1_sequencia.png)
+ ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/fig-1_sequencia.png)
 
-- Após criaçao de pastas do projeto;
+- Após criaçao de pastas do projeto acessa-la pasta projeto-sds3;
 - Utilização do Yarn (instalação no prompt ou no branch)
 - yarn -v  (verificação se tem instalado)
 - npm install --global yarn (instalação)
-Apos criaçao de pastas; 
+
 # sequência de criação do projeto
 ## Passo 1: 
 •	Criar projeto no ReactJS com create-react-app:
