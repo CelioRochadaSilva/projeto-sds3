@@ -24,15 +24,9 @@ Obs.: Plugins VScode: deve ser instalados
 - Visual Studio Intellicod ;
 - XML 0.016 ;
 
+# Fazes de desenvolvimento do app
 ## Fase -01
-## Objetivos do projeto
-- Criar projetos backend e frontend;
-- Salva-los no Github;
--	Montar o visual estático do front end;
--	Publicar o front end no Netlify;
-
 ## Fase -02
-
 ## Fase -03
 
 
