@@ -11,6 +11,7 @@
 - NPM e yarn;
 - VS Code;
 - Git;
+- mapa mental;
 
 ## Playlist do Youtube mostrando a instalação: disponibilização Devsuperior
 https://www.youtube.com/playlist?list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox
