@@ -7,7 +7,7 @@
 -	Publicar o front end no Netlify;
 
 ## Checklist: sequencia de pastas 
-- (inserir imagem)
+- ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/fig-1_sequencia.png)
 
 •	Utilização do Yarn (instalação no prompt ou no )
 yarn -v
