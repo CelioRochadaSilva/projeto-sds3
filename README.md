@@ -1,4 +1,5 @@
 # projeto-sds3
+![git dev](https://github.com/CelioRochadaSilva/p-gina-inicial-do-Instagram/blob/main/img/Gif_Desenvolvedor.gif)
 
 ## Documentação em elaboração
 
