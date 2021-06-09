@@ -34,19 +34,18 @@ o	Menu Project -> Clean
 o	Apagar pasta .m2 e deixar o STS refazer o download
 
 # Dicas configurando git
-Faça a instalação padrao do git e depois sua cnofiguração. Objetivo comunicação com github
-git config --global user.name <seu nome>
-git config --global user.email <seu email>
-git init
-git add .
-git commit -m "Project created"
-git remote add origin <seu endereço>
-git push -u origin main
+Faça a instalação padrão do git e depois a configuração. Objetivo comunicação com github
+- git config --global user.name <seu nome> 
+- git config --global user.email <seu email> 
+- git init 
+- git add .
+- git commit -m "Project created"
+- git remote add origin <seu endereço>
+- git push -u origin main
   
-  ## 1ª COMMIT: Project created
+## 1ª COMMIT: Project created
 •	Lembrete: ver extensões e arquivos ocultos
 •	Salvar o projeto no seu Github
-
 
 ## Passo 2: "limpar" o projeto ReactJS
 Limpar projeto ReactJS / tsconfig.json
@@ -116,7 +115,7 @@ html, body {
 • Footer
 <footer className="footer mt-auto py-3 bg-dark">
   <div className="container">
-    <p className="text-light">App desenvolvido por <a href="https://github.com/acenelio" target="_blank" rel="noreferrer">Coloque seu nome </a></p>
+    <p className="text-light">App desenvolvido por <a https://github.com/CelioRochadaSilva/" target="_blank" rel="noreferrer">Celio Rocha da Sulva</a></p>
     <p className="text-light"><small><strong>Spring React</strong><br/>
      Conhecimento através pela escola DevSuperior: <a href="https://instagram.com/devsuperior.ig" target="_blank" rel="noreferrer">@devsuperior.ig</a></small></p>
   </div>
@@ -186,7 +185,7 @@ const options = {
     }
 }
 
-## COMMIT: Static charts
+## 5ª COMMIT: Static charts
 
 ## Passo 6: implantação no Netlify
 Publicação no Netlify
