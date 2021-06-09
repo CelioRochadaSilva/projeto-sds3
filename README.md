@@ -2,8 +2,6 @@
 ### Link App https://celiorocha-dsvendas.netlify.app/dashboard
 ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png)
 
-## Documentação em elaboração
-
 ## Ferramentas e sistema operacional utilizado no projeto (Windows: em breve adicionarei para demais sistemas: Linux e Mac) 
 - JDK 11;
 - STS;
@@ -26,8 +24,8 @@ Obs.: Plugins VScode: deve ser instalados
 
 # Fazes de desenvolvimento do app
 ## [Fase-01](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/faze_1.md)
-## Fase -02
-## Fase -03
+## Fase -02 ## Documentação em elaboração
+## Fase -03 ## Documentação em elaboração
 
 
 
