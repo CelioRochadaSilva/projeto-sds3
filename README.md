@@ -1,6 +1,5 @@
-# projeto-sds3
-### Link App
-https://celiorocha-dsvendas.netlify.app/dashboard
+# Projeto/ sds3
+### Link App https://celiorocha-dsvendas.netlify.app/dashboard
 ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png)
 
 ## Documentação em elaboração
@@ -25,11 +24,16 @@ Obs.: Plugins VScode: deve ser instalados
 - Visual Studio Intellicod ;
 - XML 0.016 ;
 
+## Fase -01
 ## Objetivos do projeto
 - Criar projetos backend e frontend;
-- Salvar os projeto no Github em monorepo;
+- Salva-los no Github;
 -	Montar o visual estático do front end;
 -	Publicar o front end no Netlify;
+
+## Fase -02
+
+## Fase -03
 
 
 
