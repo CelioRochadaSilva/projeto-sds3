@@ -9,7 +9,7 @@
 ## Checklist: sequencia de pastas 
 - ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/fig-1_sequencia.png)
 
-•	Utilização do Yarn (instalação no prompt ou no )
+•	Utilização do Yarn (instalação no prompt ou no branch)
 yarn -v
 - npm install --global yarn
 
