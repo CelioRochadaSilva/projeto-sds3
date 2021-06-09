@@ -1,7 +1,7 @@
 # projeto-sds3
 ### Link App
 https://celiorocha-dsvendas.netlify.app/dashboard
-![git dev](https://github.com/CelioRochadaSilva/p-gina-inicial-do-Instagram/blob/main/img/Gif_Desenvolvedor.gif)
+![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png)
 
 ## Documentação em elaboração
 
