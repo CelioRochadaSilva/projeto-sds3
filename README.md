@@ -1,5 +1,5 @@
 # Projeto/ sds3
-### Link App https://celiorocha-dsvendas.netlify.app/dashboard
+### Link [App] (https://celiorocha-dsvendas.netlify.app/dashboard)
 ![Tela App](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png)
 
 ## Ferramentas e sistema operacional utilizado no projeto (Windows: em breve adicionarei para demais sistemas: Linux e Mac) 
